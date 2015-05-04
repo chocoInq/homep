@@ -1,0 +1,47 @@
+body{
+	background-color: black;
+	color :white;
+	text-align: center;
+}
+
+.container_img{
+	width: 100%;
+	height: 700px;
+	background: url('/assets/tennisball.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.content{
+	margin: 20px;
+	color: black;
+}
+
+.comment{
+	margin: auto;
+}
+
+.comment .cc{
+	width: 400px;
+}
+
+#carousel-example-generic{
+	width:1400px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: 50px;
+}
+
+.carousel-inner .item{
+	width:1000px;
+	height:500px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+.carousel-inner .item img{
+	width:100%;
+	height: 100%;
+}
